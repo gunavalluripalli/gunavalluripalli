@@ -1,6 +1,6 @@
 👋 Hi, I’m @gunavalluripalli 👀 I’m interested in using Machine Learning to solve problems for the planet even in any miniscule way possible.
 - 🌱 I’m currently working building independent projects using AI and research on deep learning literature. I am curious about data and fascinated by the tools at our disposal
-- 💞️ I’m looking to collaborate to building AI platform for stock alerts/trading.
+- 💞️ I’m looking to collaborate on building AI platform for stock alerts/trading.
 - 📫 Please reach out to me at valluripalli.guna@gmail.com 
 
 <!---
