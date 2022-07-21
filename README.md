@@ -3,7 +3,8 @@
 </div>  
   
 
-### <div align="center">I'm Guna, AI-scientist working for Target Corp👨‍💻 working remotely since 2020 🚀</div>  
+### <div align="center">I'm Guna, AI-scientist working for Target Corp👨‍💻 working remotely since 2020 🚀
+</div>  
   
 
 - 🔭  I’m currently working building independent projects using AI and research on deep learning literature.   
@@ -27,7 +28,7 @@
 
 
 
-### Frontend  
+### Data Tools  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_hadoop-icon.svg" alt="Hadoop" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" />  
